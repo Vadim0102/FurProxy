@@ -35,7 +35,7 @@ sources:
     url: "https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt"
   - name: "istanbulsydneyhotel"
     url: "https://istanbulsydneyhotel.com/blogs/site/sni.php"
-  - name: "MhdiTaheri"
+  - name: "MhdiTaheriMix"
     url: "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/refs/heads/main/sub/mix"
   - name: "aiboboxx"
     url: "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2"
@@ -52,7 +52,74 @@ sources:
   - name: "mheidari98"
     url: "https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all"
 
+  # ==========================================
+  # Крупнейшие авто-обновляемые базы (Telegram & GitHub Scrapers)
+  # ==========================================
+  - name: "ebrasha"
+    url: "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt"
+  - name: "MatinGhanbari"
+    url: "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt"
+  - name: "barry-far"
+    url: "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/All_Configs_Sub.txt"
+  - name: "AvenCores_Goida"
+    url: "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt"
+  - name: "yebekhe_PSG"
+    url: "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/xhttp"
+  - name: "yebekhe_Telegram"
+    url: "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix"
+  - name: "soroushmirzaei"
+    url: "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality"
+  - name: "awesome-vpn"
+    url: "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all"
+  - name: "sashalsk"
+    url: "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current"
+  - name: "Danialsamadi"
+    url: "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/AllConfigsSub.txt"
+  - name: "SamanGho"
+    url: "https://raw.githubusercontent.com/SamanGho/v2ray_collector/refs/heads/main/base64"
+  - name: "youfoundamin"
+    url: "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/mixed_iran.txt"
+
+  # ==========================================
+  # SubCrawler & Агрегаторы (Сотни узлов)
+  # ==========================================
+  - name: "Leon406_SubCrawler"
+    url: "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all3"
+  - name: "personqianduixue"
+    url: "https://raw.githubusercontent.com/personqianduixue/SubCrawler/main/sub/share/all"
+  - name: "gtang8"
+    url: "https://raw.githubusercontent.com/gtang8/SubCrawler/main/sub/share/all"
+  - name: "zzz6839"
+    url: "https://raw.githubusercontent.com/zzz6839/SubCrawler/main/sub/share/all"
+  - name: "zjfb"
+    url: "https://raw.githubusercontent.com/zjfb/SubCrawler/main/sub/share/all"
+  - name: "QQnight"
+    url: "https://raw.githubusercontent.com/QQnight/SubCrawler/main/sub/share/all"
+  
+  # ==========================================
+  # Фокусные сборки (Vless / Xray / Reality)
+  # ==========================================
+  - name: "10ium_Vless"
+    url: "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt"
+  - name: "arshiacomplus"
+    url: "https://raw.githubusercontent.com/arshiacomplus/eva-sub/refs/heads/main/configs.txt"
+  - name: "sevcator"
+    url: "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt"
+  - name: "yitong2333"
+    url: "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt"
+  - name: "V2RayRoot"
+    url: "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt"
+  - name: "wuqb2i4f"
+    url: "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri"
+  - name: "CidVpn"
+    url: "https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt"
+  - name: "miladtahanian"
+    url: "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
+  - name: "ripaojiedian"
+    url: "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub"
+  - name: "NiREvil"
+    url: "https://raw.githubusercontent.com/NiREvil/vless/main/sub/vless"
 
 threads: 30
 timeout: 5
-test_url: "https://api.myip.com"
+test_url: "http://ip-api.com/json"
